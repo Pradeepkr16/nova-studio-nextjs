@@ -49,7 +49,7 @@ public/
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Setup Instructions
 
 Clone the repository:
 
@@ -75,7 +75,7 @@ Run the development server:
 npm run dev
 ```
 
-Open your browser:
+Open:
 
 ```
 http://localhost:3000
@@ -90,6 +90,24 @@ This project is deployed on **Vercel**.
 Live URL:
 
 https://nova-studio-nextjs.vercel.app/
+
+---
+
+## 📌 Assumptions
+
+- This project is a frontend-only implementation as specified in the assignment.
+- The contact form displays a success message after submission and does not connect to a backend or email service.
+
+---
+
+## ⭐ Additional Features
+
+- Responsive layout for Mobile, Tablet and Desktop.
+- Smooth scrolling navigation.
+- Next.js Image optimization.
+- SEO metadata implementation.
+- Reusable React components.
+- Hover effects using Tailwind CSS.
 
 ---
 
