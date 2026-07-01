@@ -1,16 +1,22 @@
 # Nova Studio – Design Agency Homepage
 
-A modern and responsive Design Agency Homepage built with **Next.js 16** and **Tailwind CSS** as part of a Next.js Developer Internship assignment.
+A modern and responsive **Design Agency Homepage** built with **Next.js 16** and **Tailwind CSS** as part of a **Next.js Developer Internship Assignment**.
 
-## Live Demo
+---
 
-> Add your Vercel deployment link after deployment.
+## 🚀 Live Demo
 
-## GitHub Repository
+https://nova-studio-nextjs.vercel.app/
 
-> Add your GitHub repository link after pushing the project.
+---
 
-## Features
+## 💻 GitHub Repository
+
+https://github.com/Pradeepkr16/nova-studio-nextjs
+
+---
+
+## ✨ Features
 
 - Responsive Navigation Bar
 - Hero Section with Call-to-Action
@@ -21,7 +27,9 @@ A modern and responsive Design Agency Homepage built with **Next.js 16** and **T
 - SEO Metadata using Next.js
 - Built with Reusable Components
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 
 - Next.js 16
 - React
@@ -29,7 +37,9 @@ A modern and responsive Design Agency Homepage built with **Next.js 16** and **T
 - Tailwind CSS
 - Lucide React
 
-## Folder Structure
+---
+
+## 📁 Folder Structure
 
 ```text
 app/
@@ -37,7 +47,9 @@ components/
 public/
 ```
 
-## Installation
+---
+
+## ⚙️ Installation
 
 Clone the repository:
 
@@ -57,23 +69,31 @@ Install dependencies:
 npm install
 ```
 
-Start the development server:
+Run the development server:
 
 ```bash
 npm run dev
 ```
 
-Open your browser and visit:
+Open your browser:
 
 ```
 http://localhost:3000
 ```
 
-## Deployment
+---
 
-This project is deployed using **Vercel**.
+## 🌐 Deployment
 
-## Author
+This project is deployed on **Vercel**.
+
+Live URL:
+
+https://nova-studio-nextjs.vercel.app/
+
+---
+
+## 👨‍💻 Author
 
 **Pradeep Kumar D**
 
